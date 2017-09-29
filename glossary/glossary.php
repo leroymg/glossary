@@ -10,6 +10,6 @@ lines
 */
 
 // You can also use comments to leave out parts of a code line
-$x = 5 /* + 15 */ + 25;
+$x = 5 + 35;
 echo $x;
 ?>
